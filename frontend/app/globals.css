@@ -1,0 +1,123 @@
+@import "tailwindcss";
+
+/*
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+/*
+
+:root{
+  --primary: #374151;      
+  --secondary: #f3f4f6;    
+  --accent: #4f46e5;       
+
+  --card-bg: #ffffff;      
+  --border: #d1d5db;
+  --text: #111827;
+  --text-light: #6b7280;
+}
+ */
+
+/* .page{
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:var(--secondary);
+  color:var(--text);
+} */
+
+/* .login-container {
+  width: 900px;
+  background: var(--card-bg);
+  border-radius: 12px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border);
+}
+
+.content {
+  display: flex;
+  height: 500px;
+} */
+
+/* image section */
+/* .image-section{
+  flex:1;
+  background:linear-gradient(135deg,#e5e7eb,#d1d5db);
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.image-section img{
+  width: 400px;
+
+} */
+
+/* form section */
+/* .form-section{
+  flex:1;
+  padding:40px;
+  display:flex;
+  flex-direction:column;
+} */
+
+/* buttons */
+/* .role-buttons{
+  display:flex;
+  gap:10px;
+  margin-bottom:25px;
+} */
+
+/* .role-buttons button{
+  flex:1;
+  padding:10px;
+  border:none;
+  border-radius:6px;
+  background:#e5e7eb;
+  cursor:pointer;
+  font-weight:600;
+}
+
+.role-buttons .active{
+  background:var(--accent);
+  color:white;
+} */
+
+/* inputs */
+/* input{
+  padding:10px;
+  border-radius:6px;
+  border:1px solid var(--border);
+} */
+
+/* login button */
+/* .form-section button{
+  background:var(--primary);
+  color:white;
+  padding:10px;
+  border:none;
+  border-radius:6px;
+} */
