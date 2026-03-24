@@ -153,7 +153,7 @@ const createFlat = async ({
   ORDER BY effective_from DESC
   LIMIT 1
   `,
-  [admin_id, flat_type]
+  [admin_id, flat_type] 
 )
 
       const rate = sub.rows[0]?.monthly_rate || 0
